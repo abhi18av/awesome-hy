@@ -4,7 +4,14 @@ Clojure-esqe Python library wrappers
 
 
 **Pure Hy**
+
+**Learning**
+
+https://github.com/taddeimania/hykoans
+
 **Functional Libs**
+
+https://github.com/danneu/hyclops
 
 https://github.com/kirbyfan64/hyskell
 
