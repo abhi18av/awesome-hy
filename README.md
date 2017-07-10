@@ -7,6 +7,7 @@ Clojure-esqe Python library wrappers
 **Functional Libs**
 
 https://github.com/kirbyfan64/hyskell
+
 https://github.com/kirbyfan64/hynfix
 
 **Testing**
